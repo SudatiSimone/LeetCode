@@ -1,5 +1,5 @@
 # LeetCode Submissions
-[![Generic badge](https://img.shields.io/badge/language-C++-blue.svg)](https://shields.io/) [![GitHub contributors](https://img.shields.io/github/contributors/SudatiSimone/LeetCode.svg)](https://GitHub.com/SudatiSimone/LeetCode/graphs/contributors/)
+[![Generic badge](https://img.shields.io/badge/language-C++-blue.svg)](https://img.shields.io/badge/language-C%2B%2B-blue) [![GitHub contributors](https://img.shields.io/github/contributors/SudatiSimone/LeetCode.svg)](https://GitHub.com/SudatiSimone/LeetCode/graphs/contributors/)
 | # | Title | Difficulty | Language |
 | ------------- | ------------- | ------------- | ------------- |
 | 120  |    [Triangle](https://leetcode.com/problems/triangle/) | Medium | [C++](https://github.com/SudatiSimone/LeetCode/blob/main/Medium/120.cpp)  |
