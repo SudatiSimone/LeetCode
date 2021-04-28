@@ -2,6 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/language-C++-blue.svg)](https://img.shields.io/badge/language-C%2B%2B-blue) [![GitHub contributors](https://img.shields.io/github/contributors/SudatiSimone/LeetCode.svg)](https://GitHub.com/SudatiSimone/LeetCode/graphs/contributors/)
 | # | Title | Difficulty | Language |
 | ------------- | ------------- | ------------- | ------------- |
+| 63  |    [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [C++](https://github.com/SudatiSimone/LeetCode/blob/main/Medium/63.cpp)  |
 | 120  |    [Triangle](https://leetcode.com/problems/triangle/) | Medium | [C++](https://github.com/SudatiSimone/LeetCode/blob/main/Medium/120.cpp)  |
 | 322  |    [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [C++](https://github.com/SudatiSimone/LeetCode/blob/main/Medium/322.cpp)  |
 | 329  |    [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | Hard | [C++](https://github.com/SudatiSimone/LeetCode/blob/main/Hard/329.cpp)  |
